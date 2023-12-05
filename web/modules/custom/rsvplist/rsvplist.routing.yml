@@ -5,3 +5,4 @@ rsvplist.rsvpform:
     _title: 'RSVP to this Event'
   requirements:
     _permission: 'view rsvplist'
+
